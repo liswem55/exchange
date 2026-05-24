@@ -1,1 +1,3 @@
 Hello, my colleague
+
+sudo ufw allow 8001/tcp
